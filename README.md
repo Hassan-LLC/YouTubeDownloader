@@ -14,3 +14,4 @@ To install the required packages, run:python main.py
 
 ```bash
 pip install -r requirements.txt
+python main.py
