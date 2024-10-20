@@ -30,4 +30,5 @@ pip install -r requirements.txt
 python main.py
 Add Youtube Video URL
 Select Resulation Portion RESOLUTION FPS CH in the End Select green Number like 123 ,132 
+check first screen short,in resultion portion just put number front of mp4 
  and Downloaded start automatically and enjoy .
