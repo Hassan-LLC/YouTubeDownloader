@@ -21,3 +21,6 @@ To install the required packages, run:python main.py
 ```bash
 pip install -r requirements.txt
 python main.py
+Add Youtube Video URL
+Select Resulation Portion RESOLUTION FPS CH in the End Select green Number like 123 ,132 
+ and Downloaded start automatically and enjoy .
